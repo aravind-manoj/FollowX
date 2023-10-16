@@ -33,7 +33,6 @@
 
        To avoid warnings: -f or --force
 
-4. Enjoy 💚
 
 ## NOTE
 
