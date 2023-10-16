@@ -51,4 +51,4 @@ The use of this script to gain followers on Twitter is considered as a violation
 
 # Author
 
-This script was developed and maintained by bytemafia.
+This script was developed and maintained by me.
