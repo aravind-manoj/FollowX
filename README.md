@@ -4,11 +4,11 @@
 
 # Installation
 
-**To install FollowX, follow these steps:**
+**To install FollowX, follow these:**
 
 1. Download and install Firefox Browser: `https://www.mozilla.org/en-GB/firefox/new/`
 
-2. Clone the repository: `git clone https://github.com/bytemafia/FollowX.git`
+2. Clone the repository: `git clone https://github.com/aravind-manoj/FollowX.git`
 
 3. Navigate to the directory: `cd FollowX`
 
