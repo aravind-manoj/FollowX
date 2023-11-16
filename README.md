@@ -1,6 +1,7 @@
 # FollowX.py
 
 ### A Python Script to get unlimited Twitter followers. Just run it, 200-400 followers per day🔥
+### Currently this code is not working, because Twitter added captcha while logging.
 
 # Installation
 
