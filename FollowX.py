@@ -372,12 +372,14 @@ print(colors.CYAN + "██╔══╝  ██║   ██║██║     █�
 print(colors.CYAN + "██║     ╚██████╔╝███████╗███████╗╚██████╔╝╚███╔███╔╝" + colors.RED + "██╔╝ ██╗" + colors.NONE)
 print(colors.CYAN + "╚═╝      ╚═════╝ ╚══════╝╚══════╝ ╚═════╝  ╚══╝╚══╝ " + colors.RED + "╚═╝  ╚═╝" + colors.NONE)
 time.sleep(0.4)
-print(f"{colors.YELLOW} ///////// {colors.GREEN}FollowX Community Edition by {colors.BOLD}{colors.RED}bytemafia{colors.NONE}{colors.YELLOW} \\\\\\\\\\\\\\\\\\{colors.NONE}")
+print(f"{colors.YELLOW} ///////// {colors.GREEN}FollowX Community Edition - {colors.BOLD}{colors.RED}#FREE STUFF{colors.NONE}{colors.YELLOW} \\\\\\\\\\\\\\\\\\{colors.NONE}")
 time.sleep(0.2)
 print(f"{colors.YELLOW}///////// {colors.GREEN}Unlimited Twitter Followers....  Enjoy!!{colors.YELLOW} \\\\\\\\\\\\\\\\\\{colors.NONE}")
 time.sleep(0.5)
 print()
-print(f"{' '*12}{colors.BOLD}{colors.PINK}{colors.UNDERLINE}https://github.com/bytemafia/FollowX{colors.NONE}{' '*12}")
+print(f"{' '*10}{colors.BOLD}{colors.PINK}{colors.UNDERLINE}https://github.com/aravind-manoj/FollowX{colors.NONE}{' '*10}")
+print()
+print(f"{colors.BOLD}{colors.RED}NOTE: AS OF NOW THIS CODE WILL NOT WORK, BECAUSE TWITTER ADDED CAPTCHA WHILE LOGIN.{colors.NONE}")
 print()
 time.sleep(0.5)
 fstart, fspace, fend = '-' * 15, ' ' * 5, '-' * 58
@@ -391,4 +393,3 @@ time.sleep(0.5)
 if __name__ == "__main__":
     log(f"\n%{'='*15}Session started on {datetime.datetime.now().replace(microsecond=0)}{'='*15}%")
     main()
-# bytemafia
